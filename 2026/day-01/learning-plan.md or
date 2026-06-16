@@ -1,1 +1,79 @@
+## My Understanding of DevOps & Cloud
 
+**DevOps** is not a tool — it is a culture of shared ownership between development and operations. It means faster, safer delivery through automation, monitoring, and continuous improvement.
+
+**Cloud Engineering** is the skill of building and managing scalable, reliable infrastructure on platforms like AWS/Azure/GCP — treating infrastructure as code, not as manual setup.
+
+As an SDET, I tested what developers built. As a DevOps engineer, I will own the entire pipeline — from code commit to production.
+
+---
+
+## Why I Am Starting This
+
+- I have spent years validating software but want to build and ship it at scale
+- DevOps roles offer deeper ownership, better pay, and higher industry demand
+- My SDET background gives me an edge — I already understand pipelines, scripting, and quality gates
+- I want a career where I design systems, not just test them
+
+---
+
+## Where I Want to Reach in 90 Days
+
+| # | Goal |
+|---|------|
+| 1 | Deploy a production-grade application on Kubernetes (with CI/CD pipeline) |
+| 2 | Set up a full monitoring stack (Prometheus + Grafana) on a cloud VM |
+| 3 | Confidently write Infrastructure as Code using Terraform and Ansible |
+
+---
+
+## 3 Core Skills I Will Build
+
+1. **Linux + Shell Scripting** — deep troubleshooting, file systems, cron, networking basics
+2. **CI/CD Pipelines** — GitHub Actions and Jenkins, from build to deploy
+3. **Kubernetes & Docker** — containerize apps, write manifests, debug pods in production scenarios
+
+---
+
+## Weekly Time Budget
+
+| Day | Hours |
+|-----|-------|
+| Monday – Friday | 1.5 – 2 hours/day |
+| Saturday | 4 hours |
+| Sunday | 2 hours (review + notes) |
+| **Total/Week** | **~15 hours** |
+
+---
+
+## Phase Breakdown
+
+| Phase | Days | Focus |
+|-------|------|-------|
+| Foundation | Day 01–30 | Linux, Networking, Git, Shell Scripting, Docker basics |
+| Core DevOps | Day 31–60 | CI/CD, Kubernetes, Terraform, Ansible |
+| Production Skills | Day 61–90 | Monitoring, Security, Cloud (AWS), Capstone project |
+
+---
+
+## Consistency Strategy
+
+- Push at least one commit every day to the `90DaysOfDevOps` repo
+- Write a 3-line daily log: *what I learned, what confused me, what I'll do tomorrow*
+- Review weekly output every Sunday before planning the next week
+- No skipping — if time is short, 30 minutes beats zero
+
+---
+
+## My SDET Advantage
+
+Coming from SDET, I already know:
+- How to read and write scripts
+- How CI pipelines break and why
+- How to document and debug systematically
+
+I will use this to go **deeper and faster** than someone starting from zero.
+
+---
+
+> *"Consistency over intensity. Ship something every day."*
