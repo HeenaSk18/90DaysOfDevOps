@@ -85,7 +85,3 @@ curl -I https://api.myapp.com/health
 - Always try `systemctl status` before restarting a service — logs tell you *why* it failed
 - `curl -I` is faster than opening a browser to check if a server is up
 - `kill -9` is a last resort — always try `systemctl restart` first
-
----
-
-> *"The terminal is your production cockpit. Know it well."*
