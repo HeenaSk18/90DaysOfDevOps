@@ -1,79 +1,50 @@
+# My 90 Days DevOps Learning Plan
+
+## Current Level
+
+I am a QA/SDET professional with 3+ years of experience in software testing and automation. I have worked on test automation, CI jobs, defect tracking, and release support. My goal is to transition into a DevOps Engineer role by learning cloud, infrastructure, automation, and deployment practices.
+
 ## My Understanding of DevOps & Cloud
 
-**DevOps** is not a tool — it is a culture of shared ownership between development and operations. It means faster, safer delivery through automation, monitoring, and continuous improvement.
+For me, DevOps is about helping development and operations teams work together to deliver software faster, more reliably, and with fewer manual tasks. It focuses on automation, monitoring, deployment, and continuous improvement.
 
-**Cloud Engineering** is the skill of building and managing scalable, reliable infrastructure on platforms like AWS/Azure/GCP — treating infrastructure as code, not as manual setup.
+Cloud platforms provide on-demand infrastructure and services, allowing applications to be deployed, scaled, and managed efficiently without maintaining physical servers.
 
-As an SDET, I tested what developers built. As a DevOps engineer, I will own the entire pipeline — from code commit to production.
+## Why I Am Learning DevOps
 
----
+* To expand my career beyond testing and automation.
+* To understand the complete software delivery lifecycle.
+* To build skills that are highly demanded in modern engineering teams.
+* To become a well-rounded engineer who can contribute from development to production.
 
-## Why I Am Starting This
+## My 90-Day Goals
 
-- I have spent years validating software but want to build and ship it at scale
-- DevOps roles offer deeper ownership, better pay, and higher industry demand
-- My SDET background gives me an edge — I already understand pipelines, scripting, and quality gates
-- I want a career where I design systems, not just test them
+1. Build strong Linux, Git, and networking fundamentals.
+2. Create and deploy applications using Docker, Kubernetes, and CI/CD pipelines.
+3. Deploy a production-style application on AWS and manage it confidently.
 
----
+## Core DevOps Skills I Want to Build
 
-## Where I Want to Reach in 90 Days
+1. Linux administration and troubleshooting.
+2. CI/CD pipeline creation and automation.
+3. Docker, Kubernetes, and cloud deployment skills.
 
-| # | Goal |
-|---|------|
-| 1 | Deploy a production-grade application on Kubernetes (with CI/CD pipeline) |
-| 2 | Set up a full monitoring stack (Prometheus + Grafana) on a cloud VM |
-| 3 | Confidently write Infrastructure as Code using Terraform and Ansible |
+## Weekly Time Commitment
 
----
+* Monday to Friday: 2 hours daily
+* Saturday & Sunday: 4-5 hours daily
+* Total: Around 18-20 hours per week
 
-## 3 Core Skills I Will Build
+## How I Will Stay Consistent
 
-1. **Linux + Shell Scripting** — deep troubleshooting, file systems, cron, networking basics
-2. **CI/CD Pipelines** — GitHub Actions and Jenkins, from build to deploy
-3. **Kubernetes & Docker** — containerize apps, write manifests, debug pods in production scenarios
+* Study every day, even if only for 30 minutes.
+* Complete one practical task before moving to the next topic.
+* Maintain notes and GitHub repositories for all hands-on work.
+* Share weekly progress on LinkedIn to stay accountable.
+* Focus on learning by doing instead of only watching tutorials.
 
----
+## Where I Want to Reach After 90 Days
 
-## Weekly Time Budget
+By the end of this journey, I want to confidently build CI/CD pipelines, containerize applications, deploy them on Kubernetes and AWS, troubleshoot common issues, and be ready to apply for DevOps Engineer opportunities.
 
-| Day | Hours |
-|-----|-------|
-| Monday – Friday | 1.5 – 2 hours/day |
-| Saturday | 4 hours |
-| Sunday | 2 hours (review + notes) |
-| **Total/Week** | **~15 hours** |
-
----
-
-## Phase Breakdown
-
-| Phase | Days | Focus |
-|-------|------|-------|
-| Foundation | Day 01–30 | Linux, Networking, Git, Shell Scripting, Docker basics |
-| Core DevOps | Day 31–60 | CI/CD, Kubernetes, Terraform, Ansible |
-| Production Skills | Day 61–90 | Monitoring, Security, Cloud (AWS), Capstone project |
-
----
-
-## Consistency Strategy
-
-- Push at least one commit every day to the `90DaysOfDevOps` repo
-- Write a 3-line daily log: *what I learned, what confused me, what I'll do tomorrow*
-- Review weekly output every Sunday before planning the next week
-- No skipping — if time is short, 30 minutes beats zero
-
----
-
-## My SDET Advantage
-
-Coming from SDET, I already know:
-- How to read and write scripts
-- How CI pipelines break and why
-- How to document and debug systematically
-
-I will use this to go **deeper and faster** than someone starting from zero.
-
----
-
-> *"Consistency over intensity. Ship something every day."*
+I will focus on consistency, hands-on practice, and continuous improvement throughout these 90 days.
